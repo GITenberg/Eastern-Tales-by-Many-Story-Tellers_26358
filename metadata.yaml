@@ -1,0 +1,35 @@
+_repo: Eastern-Tales-by-Many-Story-Tellers_26358
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Valentine, L. (Laura)
+    alias: Valentine, Laura Jewry
+    deathdate: 1899
+    gutenberg_agent_id: '31951'
+    url: http://www.gutenberg.org/2009/agents/31951
+description: ''
+gutenberg_issued: '2008-08-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26358'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Asia -- Fiction'
+- !lcsh 'Orient -- Fiction'
+- !lcsh 'Tales -- Asia'
+- !lcc 'PZ'
+- !lcc 'PN'
+- !lcsh 'Children''s stories'
+tableOfContents: Jalaladdeen of Bagdad -- The Story of Haschem -- The Pantofles --
+  Story of the Prince and the Lions -- The City of the Demons -- Jussuf, the Merchant
+  of Balsora -- The Seven Sleepers -- The Enchanters; or, Misnar, the Sultan of India
+  -- Sadik Beg -- Halechalbe and the Unknown Lady -- The Four Talismans -- The Story
+  of Bohetzad; or, the Lost Child -- Urad; or, The Fair Wanderer -- Alischar and Smaragdine.
+title: Eastern Tales by Many Story Tellers
+url: http://www.gutenberg.org/ebooks/26358
