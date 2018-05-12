@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '31951'
     url: http://www.gutenberg.org/2009/agents/31951
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26358#Eastern-Tales-by-Many-Story-Tellers
 gutenberg_issued: '2008-08-19'
 gutenberg_type: Text
 identifiers:
